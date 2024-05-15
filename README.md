@@ -10,11 +10,14 @@ externos (imagenes) y links de navegacion dentro y fuera del sitio
 
 [Proyecto desplegado]()
 
-#Captura del proyecto 
+- Capturas de pantalla
 
-![Captura links menu] (absset/menu.png)
-![Captura links imagen del perro] (absset/perro.png)
-![Captura links imagen del gato] (absset/gato.png)
+
+![Sección imagenes](absset/menu.png)
+![Sección imagenes](absset/gato.png)
+![Sección imagenes](absset/perro.png)
+
+
 
 ##Tecnologia utilizada 
 
